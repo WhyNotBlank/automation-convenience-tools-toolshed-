@@ -1,3 +1,4 @@
+#I might have posted the same code 2x times.
 import time
 import random
 import keyboard
@@ -117,5 +118,6 @@ keyboard.add_hotkey('esc', quit)
 keyboard.add_hotkey('ctrl', main)
 
 while True:
+
 
     time.sleep(1)
